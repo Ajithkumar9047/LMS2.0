@@ -1,0 +1,75 @@
+2024-04-08 18:26:59,708 [INFO]: Threshold master: 4830
+2024-04-08 18:26:59,833 [INFO]: Threshold FEED: 4830
+2024-04-08 18:26:59,880 [INFO]: Total null: 14
+2024-04-08 18:27:07,709 [INFO]: Total null: 0
+2024-04-08 18:27:07,725 [WARNING]: maxcount is up to date
+2024-04-08 18:27:23,929 [INFO]: Email sent successfully!
+2024-04-10 17:34:46,137 [INFO]: Threshold master: 4834
+2024-04-10 17:34:46,512 [INFO]: Threshold FEED: 4834
+2024-04-10 17:34:46,653 [INFO]: Total null: 16
+2024-04-10 17:34:59,519 [INFO]: Total null: 27
+2024-04-10 17:34:59,519 [WARNING]: maxcount is up to date
+2024-04-10 17:34:59,535 [ERROR]: An error occurred: row index out of range index=15 len=15
+2024-04-10 18:00:56,193 [INFO]: Threshold master: 4834
+2024-04-10 18:00:56,490 [INFO]: Threshold FEED: 4834
+2024-04-10 18:00:56,787 [INFO]: Total null: 16
+2024-04-10 18:01:21,044 [INFO]: Total null: 27
+2024-04-10 18:01:21,044 [WARNING]: maxcount is up to date
+2024-04-10 18:01:37,853 [INFO]: Email sent successfully!
+2024-04-13 21:28:47,576 [INFO]: Threshold master: 4843
+2024-04-13 21:28:47,686 [INFO]: Threshold FEED: 4843
+2024-04-13 21:28:47,748 [INFO]: Total null: 31
+2024-04-13 21:28:47,883 [ERROR]: Failed to execute the query: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The conversion of a varchar data type to a datetime data type resulted in an out-of-range value. (242) (SQLExecDirectW)')
+2024-04-13 21:28:47,883 [ERROR]: An error occurred: object of type 'NoneType' has no len()
+2024-04-13 21:42:43,159 [INFO]: Threshold master: 4843
+2024-04-13 21:42:43,451 [INFO]: Threshold FEED: 4843
+2024-04-13 21:42:43,866 [INFO]: Total null: 31
+2024-04-13 21:42:43,882 [ERROR]: Failed to execute the query: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'where'. (156) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'where'. (156); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'where'. (156); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'where'. (156); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'where'. (156); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'where'. (156); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'where'. (156); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'where'. (156); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'where'. (156); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'where'. (156)")
+2024-04-13 21:42:43,882 [ERROR]: An error occurred: object of type 'NoneType' has no len()
+2024-04-13 21:43:55,202 [INFO]: Threshold master: 4843
+2024-04-13 21:43:55,311 [INFO]: Threshold FEED: 4843
+2024-04-13 21:43:55,374 [INFO]: Total null: 31
+2024-04-13 21:44:02,868 [INFO]: Total null: 322
+2024-04-13 21:44:02,977 [INFO]: Number of rows updated: 31
+2024-04-13 21:44:06,952 [INFO]: Count Email sent successfully!
+2024-05-30 22:44:10,800 [INFO]: Threshold master: 4891
+2024-05-30 22:44:11,066 [INFO]: Threshold FEED: 4891
+2024-05-30 22:44:11,222 [INFO]: Total null: 4
+2024-07-11 16:11:18,638 [INFO]: Threshold master: 4934
+2024-07-11 16:11:19,655 [INFO]: Threshold FEED: 4934
+2024-07-11 16:11:20,094 [INFO]: Total null: 16
+2024-07-11 16:11:57,709 [INFO]: Total null: 0
+2024-07-11 16:11:57,709 [WARNING]: maxcount is up to date
+2024-08-09 14:35:23,224 [INFO]: Threshold master: 4959
+2024-08-09 14:35:23,851 [INFO]: Threshold FEED: 4960
+2024-08-09 14:35:24,168 [INFO]: Total null: 26
+2024-08-09 14:35:51,291 [INFO]: Total null: 3
+2024-08-09 14:35:51,291 [ERROR]: thresholdMaster and thresholdfeed count is not equal
+2024-08-09 14:37:59,814 [INFO]: Threshold master: 4959
+2024-08-09 14:37:59,986 [INFO]: Threshold FEED: 4960
+2024-08-09 14:38:00,095 [INFO]: Total null: 26
+2024-08-09 14:38:20,839 [INFO]: Total null: 3
+2024-08-09 14:38:20,839 [ERROR]: thresholdMaster and thresholdfeed count is not equal
+2024-08-09 15:12:52,099 [INFO]: Threshold master: 4959
+2024-08-09 15:12:52,774 [INFO]: Threshold FEED: 4960
+2024-08-09 15:12:53,149 [INFO]: Total null: 26
+2024-08-09 15:13:30,794 [INFO]: Total null: 3
+2024-08-09 15:13:30,794 [ERROR]: thresholdMaster and thresholdfeed count is not equal
+2024-08-12 17:38:24,174 [INFO]: Threshold master: 4963
+2024-08-12 17:38:27,003 [INFO]: Threshold FEED: 4964
+2024-08-12 17:38:28,199 [INFO]: Total null: 22
+2024-08-12 17:39:24,991 [INFO]: Total null: 2
+2024-08-12 17:39:24,991 [WARNING]: update query start
+2024-08-12 17:39:25,681 [INFO]: Number of rows updated: 22
+2024-08-12 17:39:29,338 [INFO]: Count Email sent successfully!
+2024-08-12 17:43:17,066 [INFO]: Threshold master: 4963
+2024-08-12 17:43:18,163 [INFO]: Threshold FEED: 4964
+2024-08-12 17:43:21,256 [INFO]: Total null: 22
+2024-08-12 17:45:11,838 [INFO]: Total null: 2
+2024-08-12 17:45:11,839 [WARNING]: maxcount is up to date
+2024-08-12 17:45:31,317 [INFO]: Threshold master: 4963
+2024-08-12 17:45:34,199 [INFO]: Threshold FEED: 4964
+2024-08-12 17:45:38,066 [INFO]: Total null: 22
+2024-08-12 17:46:32,610 [INFO]: Total null: 2
+2024-08-12 17:46:32,610 [WARNING]: maxcount is up to date
+2024-08-12 17:46:51,281 [INFO]: Email sent successfully!, toPrashanth.V@tvsmotor.com

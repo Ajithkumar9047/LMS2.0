@@ -1,0 +1,5 @@
+2024-04-10 17:32:49,286 [INFO]: Threshold master: 4834
+2024-04-10 17:32:49,834 [INFO]: Threshold FEED: 4834
+2024-04-10 17:32:49,975 [INFO]: Total null: 16
+2024-04-10 17:32:50,787 [ERROR]: Failed to execute the query: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Conversion failed when converting date and/or time from character string. (241) (SQLExecDirectW)')
+2024-04-10 17:32:50,787 [ERROR]: An error occurred: object of type 'NoneType' has no len()
