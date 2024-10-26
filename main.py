@@ -36,11 +36,10 @@ try:
                 update_query()
                 NullEmail(num_rows_query1,num_rows_query2,num_rows_query3)
             else:
-                
                 print("maxcount is up to date")
                 logging.warning("maxcount is up to date")
-            rows_query3 = establish_connection( query3)   
-            if any(row[5] != 9999 for row in rows_query3):
+            rows_query3 = establish_connection( query3)
+            if any(row[5] != 9999 for row in rows_query3) or len(rows_query3)==0:
                 excel_name=create_excel(rows_query1, rows_query2,overflowQUERY)
                 email_generator(excel_name)
                 #whatsapp_notification(num_rows_query1, num_rows_query2, num_rows_query3)

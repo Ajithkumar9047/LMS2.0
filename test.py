@@ -1,6 +1,6 @@
 import subprocess
 # Replace 'your_executable.exe' with the path to your executable file
-executable_path = "C:/TVShosurRespush/TvsLmsReport/TvsDealerUpdate/TvsDealerUpdate.exe"
+executable_path = "D:/text document/TvsDealerUpdate.exe"
 def run():
     try:
         # Run the executable

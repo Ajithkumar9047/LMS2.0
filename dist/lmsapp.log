@@ -3,3 +3,40 @@
 2024-04-10 17:32:49,975 [INFO]: Total null: 16
 2024-04-10 17:32:50,787 [ERROR]: Failed to execute the query: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Conversion failed when converting date and/or time from character string. (241) (SQLExecDirectW)')
 2024-04-10 17:32:50,787 [ERROR]: An error occurred: object of type 'NoneType' has no len()
+2024-10-21 17:20:30,512 [INFO]: Threshold master: 0
+2024-10-21 17:20:30,846 [INFO]: Threshold FEED: 0
+2024-10-21 17:20:31,215 [INFO]: Total null: 0
+2024-10-21 17:20:36,816 [INFO]: Total null: 0
+2024-10-21 17:20:36,818 [WARNING]: maxcount is up to date
+2024-10-22 11:20:53,617 [INFO]: Threshold master: 0
+2024-10-22 11:20:53,824 [INFO]: Threshold FEED: 0
+2024-10-22 11:20:54,059 [INFO]: Total null: 0
+2024-10-22 11:21:08,510 [INFO]: Total null: 0
+2024-10-22 11:21:08,511 [WARNING]: maxcount is up to date
+2024-10-24 10:29:13,754 [INFO]: Threshold master: 0
+2024-10-24 10:29:14,196 [INFO]: Threshold FEED: 0
+2024-10-24 10:29:14,541 [INFO]: Total null: 0
+2024-10-24 10:29:28,417 [INFO]: Total null: 0
+2024-10-24 10:29:28,418 [WARNING]: maxcount is up to date
+2024-10-24 17:37:21,845 [INFO]: Threshold master: 0
+2024-10-24 17:37:22,001 [INFO]: Threshold FEED: 0
+2024-10-24 17:37:22,144 [INFO]: Total null: 0
+2024-10-24 17:37:55,823 [INFO]: Total null: 0
+2024-10-24 17:37:55,824 [WARNING]: maxcount is up to date
+2024-10-24 17:38:06,531 [INFO]: Email sent successfully!, toPrashanth.V@tvsmotor.com
+2024-10-25 10:36:02,033 [INFO]: Threshold master: 0
+2024-10-25 10:36:02,867 [INFO]: Threshold FEED: 0
+2024-10-25 10:36:03,386 [INFO]: Total null: 0
+2024-10-25 10:36:21,616 [INFO]: Total null: 0
+2024-10-25 10:36:21,616 [WARNING]: maxcount is up to date
+2024-10-25 17:21:32,063 [INFO]: Threshold master: 0
+2024-10-25 17:21:32,376 [INFO]: Threshold FEED: 0
+2024-10-25 17:21:32,674 [INFO]: Total null: 0
+2024-10-25 17:21:54,281 [INFO]: Total null: 0
+2024-10-25 17:21:54,282 [WARNING]: maxcount is up to date
+2024-10-25 17:22:01,862 [INFO]: Email sent successfully!, toPrashanth.V@tvsmotor.com
+2024-10-26 11:08:15,794 [INFO]: Threshold master: 0
+2024-10-26 11:08:15,924 [INFO]: Threshold FEED: 0
+2024-10-26 11:08:16,052 [INFO]: Total null: 0
+2024-10-26 11:08:39,236 [INFO]: Total null: 0
+2024-10-26 11:08:39,236 [WARNING]: maxcount is up to date
