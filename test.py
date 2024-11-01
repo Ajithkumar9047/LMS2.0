@@ -1,6 +1,12 @@
 import subprocess
-# Replace 'your_executable.exe' with the path to your executable file
-executable_path = "D:/text document/TvsDealerUpdate.exe"
+from Config import *
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env file
+load_dotenv()
+
+executable_path = os.getenv("Executable_path")
 def run():
     try:
         # Run the executable
